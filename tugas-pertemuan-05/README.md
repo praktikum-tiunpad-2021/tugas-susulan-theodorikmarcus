@@ -1,9 +1,8 @@
-> **TODO: UBAH "NAMA" DAN "NPM" MENJADI NAMA DAN NPM KALIAN PADA KEMUDIAN HAPUS BARIS INI!**
 # Tugas Praktikum Struktur Data 05
 
 > Materi: Linked List 2  
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## Theodorik Marcus Fritz Lopak - 140810190070
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
